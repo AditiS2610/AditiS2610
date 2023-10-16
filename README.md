@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I am Aditi Shree.</h1>
 <h5 align="center">
-A Final year computer science engineering student currently learning web development along with UI/UX designing.
+Associate Software Engineer working in CGI Bangalore on Python Full Stack Development.  
 </h5>
 
  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AditiS2610) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AditiS2610)
